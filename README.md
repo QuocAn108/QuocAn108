@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an ambitious Backend Developer, I am seeking an internship opportunity to apply and enhance my expertise in server-side development. With knowledge of databa<br>
+As an ambitious Backend Developer, I am seeking an opportunity to apply and enhance my expertise in server-side development.
 ![](https://komarev.com/ghpvc/?username=yQuocAn108&label=Visit-Profile&abbreviated=true&style=plastic)
 
 ## 🌐 Socials:
